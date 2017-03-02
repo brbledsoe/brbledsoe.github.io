@@ -6,7 +6,7 @@
 <li>If none of the above interests you, try beginning the <a href="https://www.codecademy.com/learn/javascript">js track</a> on codecademy. We'll help you through it!</li>
 </ul>
 
-<h2>A few weeks experience ( you understand JS variables, arrays, objects, functions, and loops )</h2>
+<h2>A few weeks experience ( you understand JS variables, arrays, objects, conditionals, functions, and loops )</h2>
 <ul>
 <li>try our coding bootcamp's lesson <a href="http://elevation-learn.herokuapp.com/#/lesson/4/1/2/Intro%20to%20Javascript%20Part%202">intro to JavaScript part 2</a></li>
 </ul>
